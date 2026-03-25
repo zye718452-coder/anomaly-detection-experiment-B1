@@ -25,6 +25,5 @@ weights/
 *.ckpt
 *.npy
 *.npz
-
-.env
 *.log
+.env
